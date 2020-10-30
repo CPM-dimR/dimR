@@ -12,6 +12,7 @@ Imports:
     openxlsx,
     XML, 
     httr, 
-    writexl
+    writexl,
+    rlang
 Language: es
 RoxygenNote: 7.1.1
