@@ -1,0 +1,17 @@
+Package: dimR
+Type: Package
+Title: Inteligencia de Mercado - CPM.
+Version: 1.0.0
+Author: CPM DIM
+Description: El paquete contiene funciones que facilitan el Estudio de Mercado.
+Encoding: UTF-8
+License: CC0
+Imports: 
+    tidyverse,
+    lubridate, 
+    openxlsx,
+    XML, 
+    httr, 
+    writexl
+Language: es
+RoxygenNote: 7.1.1
