@@ -13,9 +13,6 @@ Imports:
     XML, 
     httr, 
     writexl,
-    rlang,
-    zoo, 
-    plyr,
-    jsonlite  
+    rlang
 Language: es
 RoxygenNote: 7.1.1
