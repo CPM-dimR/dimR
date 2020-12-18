@@ -13,6 +13,7 @@ Imports:
     XML, 
     httr, 
     writexl,
-    rlang
+    rlang,
+    purrr
 Language: es
 RoxygenNote: 7.1.1
